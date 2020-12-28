@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I enjoy creating and contributing to open-source packages and creating new projects with the technologies I'm exploring. You can always see what I've been up to at [CruddyShad0w.io](http://cruddyshad0w.github.io/).
+I enjoy creating and contributing to open-source packages as well as creating new projects with the technologies I'm exploring. You can always see what I've been up to at [CruddyShad0w.io](http://cruddyshad0w.github.io/).
 
 - 👨‍💻  &nbsp;I’m currently working at [Visions in Education](https://github.com/viedu)
 - :pencil: &nbsp;I'm currently writing a lot of PUG, Typescript, and Python.
