@@ -19,7 +19,7 @@ I enjoy creating and contributing to open-source packages as well as creating ne
 
 - 👨‍💻  &nbsp;I’m currently working at [Visions in Education](https://github.com/viedu)
 - :pencil: &nbsp;I'm currently writing a lot of PUG, Typescript, and Python.
-- 💬 Ask me about Data science, analytics or stock market trading.
+- 💬 Ask me about data science, analytics or stock market trading.
 - 🌱  &nbsp;I’m always learning
 
 <br />
