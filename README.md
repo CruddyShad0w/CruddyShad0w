@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I enjoy creating and contributing to open-source packages as well as creating new projects with the technologies I'm exploring. You can always see what I've been up to at [CruddyShad0w.io](https://cruddyshad0w.github.io/Portfolio/).
 
-- 👨‍💻  &nbsp;I’m currently working at [Visions in Education](https://github.com/viedu)
+- 👨‍💻  &nbsp;I’m currently working at [Semantic Bits](https://semanticbits.com/)
 - :pencil: &nbsp;I'm currently writing a lot of PUG, Typescript, and Python.
 - 💬 Ask me about data science, analytics or stock market trading.
 - 🌱  &nbsp;I’m always learning
