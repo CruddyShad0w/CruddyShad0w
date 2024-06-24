@@ -30,19 +30,3 @@ I enjoy creating and contributing to open-source packages as well as creating ne
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/CruddyShad0w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kylehays800/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-<p align="left">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=CruddyShad0w&show_icons=true&hide_title=false&theme=tokyonight&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruddyShad0w&theme=tokyonight&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
-</p>
-
-<br />
-
-<p align="left">
-  <img src="https://gpvc.arturio.dev/CruddyShad0w" alt="Profile views" />
-</p>
-
-<br />
